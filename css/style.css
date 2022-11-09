@@ -1,9 +1,4 @@
-/* Позиционирование */
-/* Блочная модель */
-/* Типографика */
-/* Оформление */
-/* Анимация */
-/* Разное */
+
 
 @font-face {
   font-family: OpenSans-Regular;
@@ -550,9 +545,9 @@ button {
   padding: 3px 12px;
 }
 
-.tag-item-link:hover {
+.tag-item-link:hover {  
   color: white;
-  background-color: #b59f5b;
+  background-color:#b59f5b ;
   transition: all 0.5s;
 }
 .themes-widget {
