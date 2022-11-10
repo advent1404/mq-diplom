@@ -142,7 +142,7 @@ h3,
 }
 
 
-/* ========== TRENDS ========== */
+/* ========== trends ========== */
 
 .content {
   margin-top: 62px;
@@ -267,7 +267,7 @@ h3,
   margin-right: 20px;
 }
 
-/* ========== MAIN ========== */
+/* ========== main ========== */
 
 .page-title {
   max-width: 680px;
@@ -559,7 +559,7 @@ h3,
   top: -4px;
 }
 
-/* ========== SHOP ========== */
+/* ========== shop ========== */
 
 .shop__wrapper {
   display: flex;
@@ -654,7 +654,7 @@ h3,
   text-decoration: line-through;
 }
 
-/* ========== FOOTER ========== */
+/* ========== footer ========== */
 
 .footer {
   text-align: center;
@@ -708,7 +708,7 @@ h3,
   font-weight: bold;
 }
 
-/* ========== POPUP ========== */
+/* ========== popup ========== */
 
 .popup-hidden {
   display: none;
@@ -905,7 +905,7 @@ h3,
   height: 1px;
 }
 
-/* ========== MENU__BURGER ========== */
+/* ========== menu_burger ========== */
 .menu-checkbox {
   position: relative;
   text-indent: -9999px;
@@ -962,7 +962,7 @@ h3,
     width: 70%;
   }
 
-/* ========== DESKTOP ========== */
+/* ========== desctop ========== */
 
 @media (min-width: 1200px) {
   .header {
@@ -1001,7 +1001,7 @@ h3,
 
 }
 
-/* ========== TABLET ========== */
+/* ========== tablet ========== */
 
 @media (min-width: 641px) and (max-width: 1199px) {
   
@@ -1071,7 +1071,7 @@ h3,
     margin-left: 5%;
   }
   
-  /* ========== VISUAL ========== */
+  /* ========== visual ========== */
   .header-logo {
     width: 160px;
   }
@@ -1120,7 +1120,7 @@ h3,
   }
 }
 
-/* ========== MOBILE ========== */
+/* ========== mobile ========== */
 
 @media (max-width: 640px) and (orientation: landscape) {
   .trend__card {
