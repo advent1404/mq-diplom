@@ -270,10 +270,7 @@
 .button-list-item {
   list-style-type: none;
 }
-.button-list-item:hover {
-  text-shadow: 0 0 1px #b59f5b;
-  text-decoration: underline;
-}
+
 .button-link {
   font-family: open-sans-b, sans-serif;
   font-weight: bold;
@@ -281,7 +278,10 @@
   text-decoration: none;
   color: #b59f5b;
 }
-
+.button-link:hover {
+  text-shadow: 0 0 1px #b59f5b;
+  text-decoration: underline;
+}
 .article-title {
   display: inline-block;
   font-family: open-sans-b, sans-serif;
