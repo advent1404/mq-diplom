@@ -420,6 +420,7 @@
 .teg-list {
   display: flex;
   flex-wrap: wrap;
+  
 }
 
 .teg-list-item {
@@ -436,6 +437,11 @@
   font-weight: bold;
   text-transform: uppercase;
   color: #000000;
+  text-decoration: none;
+}
+
+.teg-link:hover {
+  color: #b59f5b;
   text-decoration: none;
 }
 
